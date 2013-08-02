@@ -7,8 +7,19 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+	<div class=" navbar navbar-fixed-top navbar-inverse">
+		<div class="navbar-inner">
+			<div class="container">
+				<a href="#" class="navbar-brand">Treebook</a>
+				<ul class="nav navbar-nav">
+					<li><%= link_to "All Statuses", statuses_path %></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 
-<%= yield %>
-
+	<div class="container">
+		<%= yield %>
+	</div>
 </body>
 </html>
