@@ -12,6 +12,9 @@ gem 'sass-rails', '~> 4.0.0'
 # Bootstrap for Sass
 gem 'bootstrap-sass', :git => 'git://github.com/thomas-mcdonald/bootstrap-sass.git', :branch => '3'
 
+# devise
+gem 'devise', '3.0.0.rc'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
