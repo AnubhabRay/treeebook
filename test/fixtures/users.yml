@@ -6,12 +6,12 @@
 #
 bruce:
   first_name: 'Bruce'
-  last_name: 'Canedy'
-  profile_name: 'bcanedy'
-  email: 'canedy@msn.com'
+  last_name: 'Jones'
+  profile_name: 'bjones'
+  email: 'jones@msn.com'
 
 jordan:
-  first_name: 'Bruce'
-  last_name: 'Canedy'
-  profile_name: 'bcanedy'
-  email: 'jcanedy@msn.com'
+  first_name: 'Jordan'
+  last_name: 'Jones'
+  profile_name: 'bjones'
+  email: 'jjones@msn.com'
