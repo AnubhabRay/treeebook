@@ -15,6 +15,9 @@ gem 'bootstrap-sass', :git => 'git://github.com/thomas-mcdonald/bootstrap-sass.g
 # devise
 gem 'devise', '3.0.0.rc'
 
+# Add simple forms
+gem 'simple_form', '3.0.0.rc'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
